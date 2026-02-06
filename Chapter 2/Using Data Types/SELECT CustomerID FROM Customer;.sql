@@ -1,0 +1,2 @@
+SELECT CustomerID
+FROM Customer;
