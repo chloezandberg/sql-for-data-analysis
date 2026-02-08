@@ -1,0 +1,4 @@
+SELECT *
+FROM OrderTotalsByCity
+ORDER BY AvgTotalDue DESC
+LIMIT 50;

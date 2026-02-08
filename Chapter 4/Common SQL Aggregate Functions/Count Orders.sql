@@ -1,2 +1,2 @@
-SELECT COUNT(CustomerID)
+SELECT COUNT(DISTINCT(CustomerID))
 from Orders;
